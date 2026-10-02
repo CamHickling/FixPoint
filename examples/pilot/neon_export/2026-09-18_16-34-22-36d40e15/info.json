@@ -1,0 +1,40 @@
+{
+    "android_device_id": "129429fdf0c6b66f",
+    "android_device_model": "rtwo_ge",
+    "android_device_name": "Phone 2",
+    "app_version": "2.9.47-prod",
+    "calib_version": 1,
+    "data_format_version": "2.6",
+    "duration": 346947000000,
+    "firmware_version": [
+        29,
+        8
+    ],
+    "frame_id": "10",
+    "frame_name": "Just act natural",
+    "gaze_frequency": 200,
+    "gaze_mode": "binocular",
+    "gaze_offset": [
+        -18.531815,
+        10.760193
+    ],
+    "module_serial_number": "543084",
+    "os_version": "15",
+    "pipeline_version": "2.9.0",
+    "recording_id": "36d40e15-e646-4390-afbc-a6508f4b3d6b",
+    "start_time": 1789774462398000000,
+    "template_data": {
+        "data": {
+            "1124f560-0eb1-4a4d-ac2e-96de8e5b717e": [
+                ""
+            ]
+        },
+        "id": "f32666ae-6a82-4d0e-b285-c14c1126d686",
+        "recording_name": "2026-09-18_16:34:22",
+        "version": "2026-06-11T22:04:25.384868Z"
+    },
+    "wearer_id": "4cdfa7ec-aace-4e5a-b957-e4ecea3548e2",
+    "wearer_ied": 62.0,
+    "wearer_name": "P01",
+    "workspace_id": "94ff50a7-99c3-4bb8-95e7-12d265691853"
+}

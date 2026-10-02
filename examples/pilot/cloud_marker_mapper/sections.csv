@@ -1,0 +1,2 @@
+section id,recording id,recording name,wearer id,wearer name,section start time [ns],section end time [ns],start event name,end event name
+fba5560e-0b7f-4600-aa7f-01203a7bc28a,36d40e15-e646-4390-afbc-a6508f4b3d6b,2026-09-18_16:34:22,4cdfa7ec-aace-4e5a-b957-e4ecea3548e2,P01,1789774498343385000,1789774768455968000,trial_start_0,trial_start_90
